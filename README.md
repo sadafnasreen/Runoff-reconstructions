@@ -7,7 +7,7 @@ Scientific Data
 					
 Year:  column contains the total number of data points from 1500 to the most recent observed data.					
 Simulated Runoff:  represent the simulated selected model for paper measured in mm					
-Observed Runoff: Observed Runoff includes GRDC runoff and is expressed in millimetres per year.					
+Observed Runoff: containing GRDC runoff and is expressed in millimetres per year.					
 					
 Each spread sheet contain individual station data for 14 runoff reconstructions					
 					
